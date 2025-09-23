@@ -10,7 +10,7 @@ Hi! I'm Abigail.
 ## About Me
  
 <!-- You can add blog posts in the `_posts` folder! -->
-I'm passionate about **technology**, **R&D**, and **global health and medicine**.  
+I'm passionate about **technology**, **R&D**, and **global health**.  
 My goal is to build meaningful projects that make a positive impact.
 
 ---
