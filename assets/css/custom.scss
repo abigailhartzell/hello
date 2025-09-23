@@ -1,9 +1,12 @@
+/* Import Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Rubik:wght@400;700&family=Nunito:wght@400;700&display=swap');
 
-body {
-  font-family: 'Inter', 'Rubik', 'Nunito', Arial, sans-serif;
-}
+/* Override Chirpy accent colors */
+$primary-color: #6d33a2;    // purple accent
+$secondary-color: #ffd700;  // gold/yellow accent
+$info-color: #00c3ff;       // bright blue accent
 
-$primary-color: #6d33a2;
-$secondary-color: #ffd700;
-$info-color: #00c3ff;
+/* Apply custom font to body and headings */
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', 'Rubik', 'Nunito', Arial, sans-serif !important;
+}
