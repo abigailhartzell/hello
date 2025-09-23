@@ -1,9 +1,26 @@
 ---
 layout: home
-title: "Welcome"
+title: "Welcome!"
 ---
 
-# Hi, I'm Abigail Hartzell
+Hi! I'm Abigail. I'm passionate about **technology**, **global health and medicine**, and **helping others learn and grow**.  
+My goal is to build meaningful projects that make a positive impact.
 
-Welcome to my portfolio site!  
-Here you'll find my passions, projects, and goals.
+---
+
+## My Interests
+
+- Software Development
+- Data Science & AI
+- Innovative engineering
+- Community Outreach & Activism
+- Learning new skills
+- Health and wellness
+
+---
+
+## My Goals
+
+- Build a portfolio of impactful work
+- Contribute to open-source projects
+- Connect with other passionate creators
