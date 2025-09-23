@@ -1,9 +1,16 @@
 ---
-layout: home
+layout: default
 title: "Welcome!"
 ---
 
-Hi! I'm Abigail. I'm passionate about **technology**, **global health and medicine**, and **helping others learn and grow**.  
+# Welcome to My Portfolio
+
+Hi! I'm Abigail.
+
+## About Me
+ 
+<!-- You can add blog posts in the `_posts` folder! -->
+I'm passionate about **technology**, **global health and medicine**, and **helping others learn and grow**.  
 My goal is to build meaningful projects that make a positive impact.
 
 ---
