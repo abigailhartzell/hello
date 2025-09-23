@@ -1,13 +1,11 @@
 title: "Abigail Hartzell"
 description: "My personal portfolio site."
-remote_theme: cotes2020/jekyll-theme-chirpy
-
-theme_color: "#6d33a2" # Purple accent - broswer accent only
+theme: jekyll-theme-merlot
 
 # Contact Info Section
-contact:
-  email: "your.email@example.com"
-  github: "abigailhartzell"
-  linkedin: "abigail-hartzell"
-  twitter: "yourTwitterHandle"
-  website: "https://abigailhartzell.github.io/hello/"
+email: your.email@example.com
+linkedin: abigail-hartzell
+github_username: abigailhartzell
+
+# Build settings
+markdown: kramdown
