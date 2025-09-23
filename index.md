@@ -24,3 +24,13 @@ My goal is to build meaningful projects that make a positive impact.
 - Build a portfolio of impactful work
 - Contribute to open-source projects
 - Connect with other passionate creators
+
+...
+
+## Contact
+
+- Email: [ahartz0118@gmail.com](mailto:ahartz0118/@gmail.com)
+- GitHub: [{{ site.contact.github }}](https://github.com/{{ site.contact.github }})
+- LinkedIn: [{{ site.contact.linkedin }}](https://linkedin.com/in/{{ site.contact.linkedin }})
+- Twitter: [{{ site.contact.twitter }}](https://twitter.com/{{ site.contact.twitter }})
+- Website: [{{ site.contact.website }}]({{ site.contact.website }})
